@@ -1,7 +1,7 @@
 # AI-Checkers
 A simple game of checkers againt an AI
 
-This AI is based on the Minimax algorithm (https://en.wikipedia.org/wiki/Minimax)[https://en.wikipedia.org/wiki/Minimax]
+This AI is based on the Minimax algorithm https://en.wikipedia.org/wiki/Minimax
 
 ## Initial Setup
 
